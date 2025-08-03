@@ -1,8 +1,9 @@
-- 👋 Hi, I’m *ROCK
-- 👀 I’m interested in CODING AND APP BUILDING
-- 🌱 I’m currently learning TENTH STANDARD
-- 💞️ I’m looking to collaborate on CODING
-- 📫 How to reach me 9449668394
+- 👋💞️ Hi, I’m Rocky
+- I’m looking to collaborate on CODING
+- Em ail: rakeshparmesh6469@gmail.com
+- LinkedIn: linkedin.com/in/rakesh-vp007/
+- Instagram: @itssinenomine
+- 
 
 <!---
 RAKESH6469/RAKESH6469 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
