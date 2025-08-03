@@ -1,6 +1,6 @@
 - 👋💞️ Hi, I’m Rocky
 - I’m looking to collaborate on CODING
-- Em ail: rakeshparmesh6469@gmail.com
+- Email: rakeshparmesh6469@gmail.com
 - LinkedIn: linkedin.com/in/rakesh-vp007/
 - Instagram: @itssinenomine
 - 
